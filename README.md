@@ -2,6 +2,10 @@
 
 Online Shopping Portal built with React & Typescript
 
+#### Webpage Snapshot
+
+![](https://user-images.githubusercontent.com/47673815/151186934-e3572042-673f-4647-bb25-af78da61dbfb.png)
+
 
 ## Available Scripts
 
